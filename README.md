@@ -1,4 +1,4 @@
-![Alex Moore](https://user-images.githubusercontent.com/34322685/211977892-a7dbaf6f-9773-47f6-b305-73addc11d792.png)
+
 
 <!--
 **amoore16/amoore16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
